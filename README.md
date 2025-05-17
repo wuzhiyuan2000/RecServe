@@ -1,4 +1,4 @@
-# RecServe: Recursive Offloading Framework for LLM Serving in Multi-tier Networks
+# Recursive Offloading for LLM Serving in Multi-tier Networks  
 
 ## Introduction
 
