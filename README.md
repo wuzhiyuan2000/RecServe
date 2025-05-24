@@ -56,3 +56,15 @@ Run evaluations using the `main.py` script.
 ```bash
 python main.py [arguments]
 ```
+
+## Bibtex Citation
+
+```bash
+@article{wu2025recursive,
+  title={Recursive Offloading for LLM Serving in Multi-tier Networks},
+  author={Wu, Zhiyuan and Sun, Sheng and Wang, Yuwei and Liu, Min and Gao, Bo and Lu, Jinda and Yang, Zheming and Wen, Tian},
+  journal={arXiv preprint arXiv:2505.16502},
+  year={2025}
+}
+```
+
