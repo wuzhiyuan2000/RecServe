@@ -61,10 +61,16 @@ python main.py [arguments]
 
 ```bash
 @article{wu2025recursive,
-  title={Recursive Offloading for LLM Serving in Multi-tier Networks},
-  author={Wu, Zhiyuan and Sun, Sheng and Wang, Yuwei and Liu, Min and Gao, Bo and Lu, Jinda and Yang, Zheming and Wen, Tian},
-  journal={arXiv preprint arXiv:2505.16502},
-  year={2025}
+  author={Wu, Zhiyuan and Sun, Sheng and Wang, Yuwei and Liu, Min and Gao, Bo and Lu, Jinda and Wu, Tingting and Yang, Zheming and Wen, Tian},
+  journal={IEEE Transactions on Mobile Computing}, 
+  title={Recursive Offloading for LLM Serving in Multi-tier Networks}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-16},
+  keywords={Cloud computing;Resource management;Costs;Data centers;Computational modeling;Reviews;Large language models;Computers;Computer architecture;Computational efficiency;Large language models;services computing;task offloading;edge-cloud collaboration;communication efficiency},
+  doi={10.1109/TMC.2025.3642580}
 }
 ```
+
 
